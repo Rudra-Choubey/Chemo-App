@@ -1,0 +1,76 @@
+body
+{
+    background: #262626 !important;
+}
+.window 
+{
+    padding: 30;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(60deg,cyan, blue);
+    border-radius: 20px;
+    width: 1200px;
+    height: 700px;
+}
+.footer
+{
+    color: rgba(255,255,255, 0.5);
+}
+.img 
+{
+    width: 200px;
+    height: 200px;
+    margin-left:40px;
+    margin-top: 100px;
+}
+.name
+{
+    margin-top:20px;
+    margin-right: 150px;
+    font-size: 70px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding: 10px;
+    text-align:center;
+}
+.numbers
+{
+    width: 400px;
+    color: white;
+    margin-top: 70px;
+    width: 900px;
+}
+.atomic-no
+{
+    /* text-align: center; */
+    margin-left: 80px !important;
+}
+.atomic-mass
+{
+    margin-left: 80px !important;
+}
+.description
+{
+    margin-top: 10px !important;
+}
+.phase
+{
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 30px !important;
+}
+.appearance
+{
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.appe
+{
+    font-size: 30px !important;
+    width: 700px;
+}
